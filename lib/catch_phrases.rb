@@ -13,7 +13,9 @@ def link
   puts line
 end
 
-def any_phrase
+def any_phrase(phrase)
   starFox = "Do A Barrel Roll!"
   puts starFox
 end
+
+any_phrase(phrase)
