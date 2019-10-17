@@ -17,5 +17,3 @@ def any_phrase(phrase)
   starFox = "Do A Barrel Roll!"
   puts starFox
 end
-
-any_phrase(phrase)
